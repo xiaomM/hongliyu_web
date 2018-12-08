@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gallery on 红鲤鱼科技欢迎您</title>
+    <link>http://www.dream623.com/gallery/</link>
+    <description>Recent content in Gallery on 红鲤鱼科技欢迎您</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sat, 14 Jul 2018 16:19:08 +0600</lastBuildDate>
+    
+	<atom:link href="http://www.dream623.com/gallery/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
